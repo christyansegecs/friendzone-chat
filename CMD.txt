@@ -1,0 +1,18 @@
+
+npx create-next-app@latest
+npm i class-variance-authority
+npm i lucide-react
+npm install clsx tailwind-merge
+npm i @upstash/redis
+npm install --save next-auth
+npm install @next-auth/upstash-redis-adapter
+npm i react-hot-toast
+npm install @tailwindcss/forms
+npm install react-hook-form @hookform/resolvers zod axios
+npm install react-textarea-autosize
+npm install nanoid
+npm install date-fns
+npm install pusher pusher-js
+npm i encoding
+npm i react-loading-skeleton
+npm i @headlessui/react
